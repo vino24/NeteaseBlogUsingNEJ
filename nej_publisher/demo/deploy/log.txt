@@ -1,0 +1,137 @@
+[INFO] 2016-01-07 17:15:10.95	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/deploy/release.conf
+[INFO] 2016-01-07 17:15:10.112	-	config -> {"DIR_WEBROOT":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/","DIR_SOURCE":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/","DIR_OUTPUT":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/","DIR_OUTPUT_STATIC":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/r/","DIR_STATIC":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/image/","STATIC_VERSION":true,"OBF_MAX_JS_INLINE_SIZE":50,"DIR_CONFIG":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/deploy/","DIR_SOURCE_TP":"","DIR_OUTPUT_TP":"","NEJ_DIR":"","ALIAS_DICTIONARY":{},"ALIAS_START_TAG":"${","ALIAS_END_TAG":"}","ALIAS_REG":{},"DIR_MANIFEST":"","DIR_TEMPORARY":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/deploy/_t_m_p_/","FILE_SUFFIXE":"","FILE_CHARSET":"utf-8","RAND_VERSION":false,"X_NOCOMPRESS":false,"X_NOPARSE_FLAG":0,"DM_STATIC_CS":"/","DM_STATIC_JS":"/","DM_STATIC_RR":true,"DM_STATIC":"/","DM_STATIC_CS_RR":true,"DM_STATIC_JS_RR":true,"DIR_STATIC_REG":{},"OBF_LEVEL":3,"OBF_LINE_MODE":1,"OBF_MAX_CS_INLINE_SIZE":50,"OBF_NAME_BAGS":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/deploy/names.txt","CORE_LIST_JS":"","CORE_LIST_CS":""}
+[INFO] 2016-01-07 17:15:10.113	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a0.html
+[INFO] 2016-01-07 17:15:10.152	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a1.html
+[INFO] 2016-01-07 17:15:10.154	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a2.html
+[INFO] 2016-01-07 17:15:10.155	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.html
+[INFO] 2016-01-07 17:15:10.155	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b0.html
+[INFO] 2016-01-07 17:15:10.156	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b1.html
+[INFO] 2016-01-07 17:15:10.157	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b2.html
+[INFO] 2016-01-07 17:15:10.164	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.html
+[INFO] 2016-01-07 17:15:10.165	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/c.html
+[INFO] 2016-01-07 17:15:10.166	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d0.html
+[INFO] 2016-01-07 17:15:10.167	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d1.html
+[INFO] 2016-01-07 17:15:10.167	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d2.html
+[INFO] 2016-01-07 17:15:10.168	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.html
+[INFO] 2016-01-07 17:15:10.168	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/m.html
+[INFO] 2016-01-07 17:15:10.169	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/ui.html
+[INFO] 2016-01-07 17:15:10.170	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index.html
+[INFO] 2016-01-07 17:15:10.177	-	define -> {"root":{"pro":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/","patch":["{lib}patched/trident-0/","{lib}patched/trident-1/","{lib}patched/trident/","{lib}patched/gecko/","{lib}patched/webkit/","{lib}patched/presto/"],"lib":"http://nej.netease.com/nej/src/"}}
+[INFO] 2016-01-07 17:15:10.178	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/simple.html
+[INFO] 2016-01-07 17:15:10.178	-	define -> {"root":{"pro":"D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/","patch":["{lib}patched/trident-0/","{lib}patched/trident-1/","{lib}patched/trident/","{lib}patched/gecko/","{lib}patched/webkit/","{lib}patched/presto/"],"lib":"http://nej.netease.com/nej/src/"}}
+[INFO] 2016-01-07 17:15:10.179	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.a0.js
+[INFO] 2016-01-07 17:15:10.179	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/module.js
+[INFO] 2016-01-07 17:15:10.179	-	downloading http://nej.netease.com/nej/src/util/dispatcher/module.2.js
+[INFO] 2016-01-07 17:15:10.201	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.a1.js
+[INFO] 2016-01-07 17:15:10.202	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.a2.js
+[INFO] 2016-01-07 17:15:10.203	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.js
+[INFO] 2016-01-07 17:15:10.204	-	downloading http://nej.netease.com/nej/src/util/tab/tab.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.b0.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.b1.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.b2.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/c.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.d0.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.d1.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.d2.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.js
+[INFO] 2016-01-07 17:15:10.206	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/m.js
+[INFO] 2016-01-07 17:15:10.217	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/ui.js
+[INFO] 2016-01-07 17:15:10.218	-	downloading http://nej.netease.com/nej/src/ui/base.js
+[INFO] 2016-01-07 17:15:10.220	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/page/index.js
+[INFO] 2016-01-07 17:15:10.221	-	downloading http://nej.netease.com/nej/src/util/template/tpl.js
+[INFO] 2016-01-07 17:15:10.222	-	downloading http://nej.netease.com/nej/src/util/dispatcher/dispatcher.2.js
+[INFO] 2016-01-07 17:15:10.223	-	parse D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/page/simple.js
+[INFO] 2016-01-07 17:15:10.414	-	parse http://nej.netease.com/nej/src/ui/base.js
+[INFO] 2016-01-07 17:15:10.416	-	parse http://nej.netease.com/nej/src/util/tab/tab.js
+[INFO] 2016-01-07 17:15:10.426	-	parse http://nej.netease.com/nej/src/util/template/tpl.js
+[INFO] 2016-01-07 17:15:10.443	-	parse http://nej.netease.com/nej/src/util/dispatcher/module.2.js
+[INFO] 2016-01-07 17:15:10.445	-	parse http://nej.netease.com/nej/src/util/dispatcher/dispatcher.2.js
+[WARN] 2016-01-07 17:15:10.457	-	css file not exist -> .m-a0{min-height:500px;_height:500px;background:#f00;}
+.m-a0 input{padding:5px 10px;margin:10px 0;}
+[WARN] 2016-01-07 17:15:10.467	-	css file not exist -> .m-a1{min-height:500px;_height:500px;background:#fdc;}
+.m-a1 input{padding:5px 10px;margin:10px 0;}
+[WARN] 2016-01-07 17:15:10.468	-	css file not exist -> .m-a2{min-height:500px;_height:500px;background:#aaa;}
+.m-a2 input{padding:5px 10px;margin:10px 0;}
+[WARN] 2016-01-07 17:15:10.470	-	css file not exist -> .m-a .w-tab2{float:left;width:100px;margin-right:-100px;text-align:center;font-size:14px;}
+.m-a .w-tab2 .itm{display:block;height:30px;line-height:30px;margin-bottom:5px;color:#000;background:#ccc;}
+.m-a .w-tab2 .itm:hover{text-decoration:none;}
+.m-a .w-tab2 .js-selected{background:#888;color:#fff;font-weight:bold;}
+.m-a .w-box2{margin-left:100px;padding-left:10px;border-left:1px solid #888;}
+[WARN] 2016-01-07 17:15:10.471	-	css file not exist -> .m-b0{background:#fd0;}
+[WARN] 2016-01-07 17:15:10.472	-	css file not exist -> .m-b1{background:#ddc;}
+[WARN] 2016-01-07 17:15:10.473	-	css file not exist -> .m-b2{background:#eee;font-size:16px;line-height:20px;}
+[WARN] 2016-01-07 17:15:10.474	-	css file not exist -> .m-b{min-height:500px;_height:500px;background:#f00;}
+.m-b .bx{float:left;width:50%;}
+.m-b .bm{clear:both;}
+[WARN] 2016-01-07 17:15:10.474	-	css file not exist -> .m-c{min-height:500px;_height:500px;background:#000;color:#fff;font-size:14px;}
+[WARN] 2016-01-07 17:15:10.475	-	css file not exist -> .m-d0{min-height:500px;_height:500px;background:#f00;}
+.m-d0 input{padding:5px 10px;margin:10px 0;}
+[WARN] 2016-01-07 17:15:10.476	-	css file not exist -> .m-d1{min-height:500px;_height:500px;background:#fdc;}
+.m-d1 input{padding:5px 10px;margin:10px 0;}
+[WARN] 2016-01-07 17:15:10.477	-	css file not exist -> .m-d2{min-height:500px;_height:500px;background:#aaa;}
+.m-d2 input{padding:5px 10px;margin:10px 0;}
+[WARN] 2016-01-07 17:15:10.478	-	css file not exist -> .m-d .w-tab2{float:left;width:100px;margin-right:-100px;text-align:center;font-size:14px;}
+.m-d .w-tab2 .itm{display:block;height:30px;line-height:30px;margin-bottom:5px;color:#000;background:#ccc;}
+.m-d .w-tab2 .itm:hover{text-decoration:none;}
+.m-d .w-tab2 .js-selected{background:#888;color:#fff;font-weight:bold;}
+.m-d .w-box2{margin-left:100px;padding-left:10px;border-left:1px solid #888;}
+[WARN] 2016-01-07 17:15:10.480	-	css file not exist -> .w-tab{border-bottom:1px solid #000;overflow:hidden;text-align:center;font-size:16px;zoom:1;}
+.w-tab .itm{display:block;float:left;width:100px;height:30px;line-height:30px;margin-right:10px;color:#000;background:#aaa;}
+.w-tab .itm:hover{text-decoration:none;}
+.w-tab .js-selected{background:#000;color:#fff;}
+.w-box{padding:10px 0;}
+[INFO] 2016-01-07 17:15:10.490	-	core css file list -> []
+[INFO] 2016-01-07 17:15:10.490	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a0.html css file list -> ["cs-code-1452158110184"]
+[INFO] 2016-01-07 17:15:10.491	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a1.html css file list -> ["cs-code-1452158110185"]
+[INFO] 2016-01-07 17:15:10.492	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a2.html css file list -> ["cs-code-1452158110186"]
+[INFO] 2016-01-07 17:15:10.493	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.html css file list -> ["cs-code-1452158110187"]
+[INFO] 2016-01-07 17:15:10.493	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b0.html css file list -> ["cs-code-1452158110188"]
+[INFO] 2016-01-07 17:15:10.494	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b1.html css file list -> ["cs-code-1452158110189"]
+[INFO] 2016-01-07 17:15:10.495	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b2.html css file list -> ["cs-code-1452158110190"]
+[INFO] 2016-01-07 17:15:10.495	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.html css file list -> ["cs-code-1452158110191"]
+[INFO] 2016-01-07 17:15:10.496	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/c.html css file list -> ["cs-code-1452158110192"]
+[INFO] 2016-01-07 17:15:10.497	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d0.html css file list -> ["cs-code-1452158110193"]
+[INFO] 2016-01-07 17:15:10.497	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d1.html css file list -> ["cs-code-1452158110194"]
+[INFO] 2016-01-07 17:15:10.498	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d2.html css file list -> ["cs-code-1452158110195"]
+[INFO] 2016-01-07 17:15:10.498	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.html css file list -> ["cs-code-1452158110196"]
+[INFO] 2016-01-07 17:15:10.499	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/m.html css file list -> ["cs-code-1452158110197"]
+[INFO] 2016-01-07 17:15:10.499	-	pg_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index.html css file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/css/common.css","D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/css/index.css"]
+[INFO] 2016-01-07 17:15:10.501	-	pg_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/simple.html css file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/css/simple.css"]
+[INFO] 2016-01-07 17:15:10.503	-	core js file list -> ["http://nej.netease.com/nej/src/util/dispatcher/module.2.js","D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/module.js","http://nej.netease.com/nej/src/util/tab/tab.js"]
+[INFO] 2016-01-07 17:15:10.503	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a0.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.a0.js"]
+[INFO] 2016-01-07 17:15:10.504	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a1.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.a1.js"]
+[INFO] 2016-01-07 17:15:10.504	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.a2.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.a2.js"]
+[INFO] 2016-01-07 17:15:10.505	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/a.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/a.js"]
+[INFO] 2016-01-07 17:15:10.505	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b0.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.b0.js"]
+[INFO] 2016-01-07 17:15:10.506	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b1.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.b1.js"]
+[INFO] 2016-01-07 17:15:10.506	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.b2.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.b2.js"]
+[INFO] 2016-01-07 17:15:10.507	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/b.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/b.js"]
+[INFO] 2016-01-07 17:15:10.507	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/c.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/c.js"]
+[INFO] 2016-01-07 17:15:10.508	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d0.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.d0.js"]
+[INFO] 2016-01-07 17:15:10.508	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d1.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.d1.js"]
+[INFO] 2016-01-07 17:15:10.509	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.d2.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.d2.js"]
+[INFO] 2016-01-07 17:15:10.509	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/d.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/d.js"]
+[INFO] 2016-01-07 17:15:10.509	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/m.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/m.js"]
+[INFO] 2016-01-07 17:15:10.510	-	tp_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index/ui.html js file list -> ["http://nej.netease.com/nej/src/ui/base.js","D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/module/index/ui.js"]
+[INFO] 2016-01-07 17:15:10.511	-	pg_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/index.html js file list -> ["http://nej.netease.com/nej/src/util/template/tpl.js","http://nej.netease.com/nej/src/util/dispatcher/dispatcher.2.js","D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/page/index.js"]
+[INFO] 2016-01-07 17:15:10.511	-	pg_ for D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/html/simple.html js file list -> ["D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/src/javascript/page/simple.js"]
+[INFO] 2016-01-07 17:15:10.613	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/deploy/names.txt
+[INFO] 2016-01-07 17:15:10.623	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/r/core.js
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/a.a0.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/a.a1.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/a.a2.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/a.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/b.b0.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/b.b1.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/b.b2.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/b.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/c.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/d.d0.html
+[INFO] 2016-01-07 17:15:10.633	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/d.d1.html
+[INFO] 2016-01-07 17:15:10.643	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/d.d2.html
+[INFO] 2016-01-07 17:15:10.644	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/d.html
+[INFO] 2016-01-07 17:15:10.645	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/m.html
+[INFO] 2016-01-07 17:15:10.645	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index/ui.html
+[INFO] 2016-01-07 17:15:10.648	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/index.html
+[INFO] 2016-01-07 17:15:10.651	-	output D:/xampp/htdocs/learn_NEJ/nej_publisher/demo/web-app/pub/simple.html
