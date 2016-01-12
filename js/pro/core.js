@@ -35,7 +35,6 @@ var f = function () {
 
     //  页面初始化函数
     function _init() {
-        _$$base._$ieFixed(); //  载入ieFixed，消除浏览器差异
         _initData();
         _bindBtns();
         _interval = setInterval(_scroll, 60);  //  好友日志滚动计时器
@@ -120,7 +119,6 @@ var f = function () {
             _url = "http://192.168.144.11/api/untopBlog?id=" + encodeURIComponent(_dataSelf[_currentIndex].id);
             _isExist = -1;   //  重置日志标识
         }
-        // _$$base.sendXHR(_url, "POST");
         _render(_dataSelf);
         //  清空日志编辑框
         _clear();
@@ -163,7 +161,6 @@ var f = function () {
         //  删除操作
         if (_type == "dlt") {
             //_url = "http://192.168.144.11/api/deleteBlogs?id=" + encodeURIComponent(_dataSelf[_index].id);
-            //_$$base.sendXHR(_url, "GET");
             _dataSelf.splice(_index, 1);
         }
         /*   置顶操作
@@ -175,7 +172,6 @@ var f = function () {
             _dataSelf[_index].topPos = _index; //  保存日志当前位置
             _dataSelf = [_dataSelf[_index]].concat(_dataSelf.slice(0, _index), _dataSelf.slice(_index + 1));
             //_url = "http://192.168.144.11/api/topBlog?id=" + encodeURIComponent(_dataSelf[_index].id);
-            //_$$base.sendXHR(_url, "GET");
         }
         //  取消置顶操作
         else if (_type == "cancel") {
@@ -184,7 +180,6 @@ var f = function () {
             _dataSelf.splice(_flag, 0, _dataSelf[_index]);  //  插入pos
             _dataSelf.splice(_index, 1);     //  删除原本的pos
             //_url = "http://192.168.144.11/api/untopBlog?id=" + encodeURIComponent(_dataSelf[_index].id);
-            //_$$base.sendXHR(_url, "GET");
         }
         //   编辑操作
         else if (_type == "editor") {
@@ -232,7 +227,6 @@ var f = function () {
             }
         }
         var _url = "http://192.168.144.11/api/deleteBlogs?id=" + encodeURIComponent(_checked.join("&"));
-        // _$$base.sendXHR(_url, "GET");
         _render(_dataSelf);
         _sltAllBtn.checked = false;
     }
@@ -383,25 +377,9 @@ var f = function () {
 
     //  排序函数
     function _sort(_data) {
-        //  IE6+(无法使用Array.prototype.sort作为判定，IE6有sort函数，但表现与其他浏览器不同)
-        if (!_$$base._$isIE6()) {
             _data.sort(function (_a, _b) {
                 return parseInt(_b.modifyTime) - parseInt(_a.modifyTime);
             });
-        }
-        //  IE6
-        else {
-            var _a, l = _data.length;
-            for (var i = 0; i < l; i++) {
-                for (j = i + 1; j < l; j++) {
-                    if (parseInt(_data[i].modifyTime) < parseInt(_data[j].modifyTime)) {
-                        _a = _data[i];
-                        _data[i] = _data[j];
-                        _data[j] = _a;
-                    }
-                }
-            }
-        }
     }
 };
 define(['{lib}util/template/tpl.js'], f);
