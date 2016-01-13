@@ -111,7 +111,8 @@ var f = function(){
             _options.destroyable = !0;
             if (!_options.fixed){
                 _sopt.fitable = !0;
-                _options.parent = document.body;            }
+                _options.parent = document.body;
+            }
             this.__cdpol[_id] = [
                  _id,_options.event||'click',
                  _doShowCard._$bind2(null,_id,this,_options,_sopt)

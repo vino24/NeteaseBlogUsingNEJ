@@ -4,10 +4,13 @@ var f = function () {
         _v = _('nej.v'),
         _j = _('nej.j'),
         _u = _('nej.u'),
+        _ui=_('nej.ui'),
         _p = _('nej.ut');
+
     //  _dailyId 个人日志id, _dataSelf 个人日志数据, _dataFriend 好友日志数据,_isExist 日志是否新建标识, _editorIndex 当前编辑位置
-    _dailyId = "fks_0", _dataSelf = [], _dataFriend = [], _isExist = -1, _editorIndex = -1,
-        _selfKey = _e._$addHtmlTemplate('dataSelfTemplate'), _friendKey = _e._$addHtmlTemplate('dataFriendTemplate');
+    _dailyId = "fks_0", _dataSelf = [], _dataFriend = [], _isExist = -1, _editorIndex = -1;
+       var _selfKey = _e._$addHtmlTemplate('dataSelfTemplate'),
+           _friendKey = _e._$addHtmlTemplate('dataFriendTemplate');
 
     var _parent = _e._$get('j-content');
 
@@ -29,6 +32,13 @@ var f = function () {
         _clearBtn = _e._$getByClassName(_parent, 'j-clear')[0],
         _sltAllBtn = _e._$getByClassName(_parent, 'j-sltall')[0],
         _dltAllBtn = _e._$getByClassName(_parent, 'j-dltall')[0];
+    //  Tab 控件
+    var _tab = _e._$tab(_e._$get('tab1'), {
+        index: 0,
+        event: 'click',
+        selected: 'selected',
+        onchange: _onTabChange
+    });
 
     //  页面初始化(<script>标签在<body>后页面元素已经可操作，无需监听window的load事件)
     _init();
@@ -61,26 +71,19 @@ var f = function () {
         });
     }
 
+    //  Tab控件切换事件
+    function _onTabChange(_event) {
+        if (_event.index == 0) {
+            _e._$delClassName(_mDaily, "z-hidden");
+            _e._$addClassName(_mTag, "z-hidden");
+        } else {
+            _e._$delClassName(_mTag, "z-hidden");
+            _e._$addClassName(_mDaily, "z-hidden");
+        }
+    }
+
     //  绑定按钮函数
     function _bindBtns() {
-        //  绑定日志栏
-        _v._$addEvent(_daily, "click", function () {
-            if (!_e._$hasClassName(_daily, "selected")) {
-                _e._$addClassName(_daily, "selected");
-                _e._$delClassName(_tags, "selected");
-                _e._$delClassName(_mDaily, "z-hidden");
-                _e._$addClassName(_mTag, "z-hidden");
-            }
-        });
-        //  绑定标签栏
-        _v._$addEvent(_tags, "click", function () {
-            if (!_e._$hasClassName(_tags, "selected")) {
-                _e._$addClassName(_tags, "selected");
-                _e._$delClassName(_daily, "selected");
-                _e._$delClassName(_mTag, "z-hidden");
-                _e._$addClassName(_mDaily, "z-hidden");
-            }
-        });
         //  绑定发布按钮
         _v._$addEvent(_pubBtn, "click", _publish);
         //   绑定清空按钮
@@ -377,9 +380,11 @@ var f = function () {
 
     //  排序函数
     function _sort(_data) {
-            _data.sort(function (_a, _b) {
-                return parseInt(_b.modifyTime) - parseInt(_a.modifyTime);
-            });
+        _data.sort(function (_a, _b) {
+            return parseInt(_b.modifyTime) - parseInt(_a.modifyTime);
+        });
     }
 };
-define(['{lib}util/template/tpl.js'], f);
+define(['{lib}util/template/tpl.js',
+    '{lib}util/tab/tab.js',
+    '{lib}ui/layer/card.wrapper.js'], f);
