@@ -10,7 +10,7 @@ body, textarea, input, button, select, keygen, legend{font:12px/1.14 arial, \5b8
 body{background:#fff;}
 
 /* 统一改变盒模型类型 */
-.m-top .left li, .m-top .right li, .m-tab1 li, .m-tab1 li a, .m-ftnav li, .item .title,.item .more a,.item .data span{display:inline-block;*display:inline;/* IE6、7 */
+.m-top .left li, .m-top .right li, .m-tab1 li, .m-tab1 li a, .m-ftnav li, .item .title,.item .more a,.item .data span,.m-head .u-upload,.m-head #upload{display:inline-block;*display:inline;/* IE6、7 */
     *zoom:1;}
 /* 统一设置图片间距 */
 .m-top img, .m-container .m-side img, .m-foot img{margin-right:5px;}
@@ -64,7 +64,8 @@ body{background:#fff;}
 .m-head .right{float:left;}
 .m-head .left{float:left;margin-left:15px;margin-right:20px;}
 .m-head .wlc{color:#7d7d7d;font-size:18px;}
-.m-head .right .uploadimg{color:#515151;}
+.m-head .right .u-upload{position:relative;color:#515151;width:74px;height:15px;line-height:15px;padding: 3px;border: 1px solid #BBBBBB;text-align: center;margin-top: 8px;background-color: #EAEAEA;border-radius: 2px;}
+.m-head .right #upload {position: absolute;right: 0;top:0;opacity: 0;width: 80px;height: 23px;*zoom:1;filter:Alpha(opacity=0);}
 /*  主体内容    */
 .m-content h2{margin:20px 0 25px;font-size:18px;}
 .m-content h3{margin-bottom:15px;font-size:14px;color:black;}
