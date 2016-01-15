@@ -103,22 +103,23 @@
                     <li class="f-ml1" id="tags"><a href="javascript:void(0)">标签</a></li>
                 </ul>
 
-                <div class="m-daily j-flag">
+                <div class="m-daily">
                     <!-- 日志添加 -->
                     <div class="m-editor f-clearfix">
-                        <input type="text" placeholder="日志标题" class="j-title j-flag"/>
-                        <textarea placeholder="这里可以写日志~" class="j-content j-flag"></textarea><!-- textarea必须在同一行 -->
+                        <input type="text" placeholder="日志标题" class="j-title"/>
+                        <textarea placeholder="这里可以写日志~" class="j-content"></textarea><!-- textarea必须在同一行 -->
                         <div class="btns">
-                            <button class="j-pub j-button">发布</button>
-                            <button class="j-clear j-button">清空</button>
+                            <button class="j-pub">发布</button>
+                            <button class="j-clear">清空</button>
                         </div>
                     </div>
                     <!-- /日志添加 -->
                     <!-- 日志管理 -->
                     <!-- 个人日志列表容器节点 -->
-                    <div class="m-list j-flag" id="j-list">
+                    <div class="m-list" id="j-list">
                     </div>
                     <!-- /个人日志列表容器节点 -->
+                    <!-- @TEMPLATE -->
                     <!-- jst模板 -->
                     <textarea id="dataSelfTemplate" style="display: none;">
                             {list selfItems as x}
@@ -150,16 +151,17 @@
                             {/list}
                     </textarea>
                     <!-- /jst模板 -->
+                    <!-- /@TEMPLATE -->
                     <div class="m-opt">
                         <label for="sltall"></label><input
-                            type="checkbox" class="j-sltall j-button" id="sltall">全选
-                        <button class="u-button j-dltall j-button">删除</button>
+                            type="checkbox" class="j-sltall" id="sltall">全选
+                        <button class="u-button j-dltall">删除</button>
                     </div>
                     <!-- /日志管理 -->
                 </div>
 
                 <!-- 标签添加 -->
-                <div class="m-tags z-hidden j-flag">
+                <div class="m-tags z-hidden">
                     没有标签
                 </div>
                 <!-- /标签添加 -->
@@ -169,9 +171,10 @@
                 <div class="container">
                     <h3 class="title">好友最近的日志</h3>
                     <!-- 好友日志列表容器节点 -->
-                    <div class="articles j-flag" id="j-articles">
+                    <div class="articles" id="j-articles">
                     </div>
                     <!-- /好友日志列表容器节点 -->
+                    <!-- @TEMPLATE -->
                     <!-- jst模板 -->
                     <textarea id="dataFriendTemplate" style="display: none">
                     {list friendItems as x}
@@ -183,6 +186,7 @@
                     {/list}
                         </textarea>
                     <!-- /jst模板 -->
+                    <!-- /@TEMPLATE -->
                 </div>
             </div>
         </div>
@@ -212,5 +216,6 @@
 <script type="text/javascript" src="../js/NEJ/src/define.js?pro=./"></script>
 <script type="text/javascript" src="../js/pro/base.js"></script>
 <script type="text/javascript" src="../js/pro/main.js"></script>
+<!-- /@DEFINE -->
 </body>
 </html>
