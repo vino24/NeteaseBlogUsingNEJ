@@ -2,490 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="025e5283-ee98-4654-bd2a-c34d52bb6a67" name="默认" comment="">
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\css\ajax.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\css\animation.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\css\module_tab.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\css\train.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\css\uploadFile.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\css\w_form.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\getblogs.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\getfriends.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\animation.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\datepick.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\item_template.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\module_tab.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\region_widget.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\suggest_widget.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\train.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\uploadFile.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\html\w_form.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\base.chm" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\communication.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\communication.filter.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\component.chm" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\dependency.chm" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\dispatcher.chm" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\publisher.chm" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\doc\manual\template.chm" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\base\qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\base\qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\constantTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\elementTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\empty.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\eventTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\getTestResult.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\globalTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\optionsTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\platformTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\testSpeed.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\arrowTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\audioTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\cardTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\cardWarpperTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\carouselTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\colorpanelTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\customTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\datepickTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\layerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\loadingTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\loadmoreTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\maskTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\pagerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\pullerRefreshTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\pullerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\scrollerListTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\scrollyTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\suggestTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\windowTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\ui\windowWarpperTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\utilTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\ajax\loadTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\ajax\message.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\ajax\requestTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\animationTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\audioTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\base64Test.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\cacheTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\cardTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\chartTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\connectTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\customEventTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\cyclerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\dispatch\dispatcher2Test.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\dragTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\draggerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\dwrTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\formTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\md5Test.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\multiSelectorTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\pinchTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\placeholderTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\rangeSelectTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\rangeTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\regionSelectorTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\requestIntervalTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\resizeTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\restTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\sliderTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\sorterTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\suggestTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\swipeTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\tabTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\tagTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\tapTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\template\tplTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\touchTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\html\util\xdrTest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\constantTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\elementTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\eventTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\getResult.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\globalTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\log.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\optionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\platformTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\speedTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\arrowTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\audioTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\cardTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\cardWarpperTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\carouselTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\colorpanelTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\customTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\datepickTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\layerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\loadingTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\loadmoreTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\maskTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\mycard.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\mylayer.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\mylayercard.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\mylayerwrapper.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\mywindow.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\pagerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\pullerRefreshTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\pullerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\scrollListTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\scrollyTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\suggestTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\windowTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\ui\windowWarpperTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\utilTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\ajax\loadTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\ajax\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\ajax\requestTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\animationTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\audioTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\base64Test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\cache.list.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\cacheCustom.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\cacheTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\cardTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\chartTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\connectTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\customEventTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\cyclerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\dispatch\dispatcher2Test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\dragTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\draggerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\dwrTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\formTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\md5.node.test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\md5Test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\multiSelectorTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\pinchTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\placeholderTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\rangeSelectTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\rangeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\regionSelectorTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\requestIntervalTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\resizeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\restTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\sliderTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\sorterTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\suggestTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\swipeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\tabTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\tagTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\tapTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\template\myItem.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\template\tplTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\touchTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\javascript\util\xdrTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\res\FlexChart.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\res\forLoadCss.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\res\forLoadCss2.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\res\forTagTest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\qunit\res\forTagTest2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\frame.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_clipboard.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_color.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_color_btn.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_color_mask.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_editor.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_flex_chart.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_proxy_flash.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_proxy_frame.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_proxy_upload.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\res\nej_storage.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\base\constant.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\base\element.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\base\event.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\base\global.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\base\platform.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\base\util.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\define.cmp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\define.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\api.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\com\api.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\com\api.td.2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\com\editor.td.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\gecko\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\gecko\api.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\gecko\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\gecko\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\gecko\holder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\gecko\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\gecko\storage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\holder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\presto\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\presto\api.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\presto\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\presto\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\presto\holder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\presto\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\presto\storage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\storage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident-1\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident-1\api.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident-1\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident-1\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident-1\holder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident-1\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident-1\storage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident\api.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident\holder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\trident\storage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\webkit\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\webkit\api.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\webkit\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\webkit\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\webkit\holder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\webkit\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\patched\webkit\storage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\base.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\colorpick\colorpanel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\colorpick\colorpick.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\colorpick\util.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\datepick\datepick.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\command\color.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\command\font.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\command\fontname.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\command\fontsize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\command\link.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\command\uploadimage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\custom.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\editor\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\item\item.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\layer\card.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\layer\card.wrapper.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\layer\layer.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\layer\layer.wrapper.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\layer\window.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\layer\window.wrapper.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\mask\mask.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\pager\pager.base.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\pager\pager.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\range\range.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\resizer\resizer.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\ui\suggest\suggest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\connect.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\dwr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\loader\html.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\loader\loader.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\loader\script.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\loader\style.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\message.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\proxy\flash.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\proxy\frame.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\proxy\proxy.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\proxy\upload.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\proxy\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\rest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\tag.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\ajax\xdr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\animation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\bezier.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\bounce.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\decelerate.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\easein.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\easeinout.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\easeout.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\animation\linear.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\cache\cache.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\cache\cache.list.base.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\cache\cache.list.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\cache\cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\cache\storage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\calendar\calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\chart\chart.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\clipboard\clipboard.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\cycler\cycler.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\data\region\zh.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\dispatcher\dispatcher.2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\dispatcher\dsp\group.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\dispatcher\dsp\group.single.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\dispatcher\dsp\node.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\dispatcher\dsp\util.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\dispatcher\module.2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\dragger\dragger.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\area.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\backcolor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\blockquote.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\bold.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\card.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\color.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\font.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\fontname.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\fontsize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\forecolor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\insertorderedlist.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\insertunorderedlist.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\italic.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\justifycenter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\justifyleft.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\justifyright.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\link.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\simple.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\strikethrough.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\superscript.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\underline.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\command\uploadimage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\editor.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\editor\toolbar.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\encode\base64.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\encode\json.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\encode\sha.md5.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\event.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\event\event.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\event\meta.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\flash\flash.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\form\form.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\gesture\drag.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\gesture\gesture.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\gesture\pinch.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\gesture\swipe.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\gesture\tap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\history\history.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\history\history.override.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\page\page.base.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\page\page.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\page\page.simple.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\placeholder\placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\range\range.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\region\region.zh.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\resize\resize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\selector\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\selector\selector.range.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\slider\slider.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\slider\slider.x.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\slider\slider.xy.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\slider\slider.y.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\suggest\suggest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\tab\tab.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\template\jst.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\template\tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\timer\animation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\NEJ\src\util\timer\interval.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\animation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\base.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\datepick.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\item_template.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\module_tab.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\pager_widget.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\region_widget.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\suggest_widget.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\train.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\uploadFile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\js\pro\w_form.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\deploy\log.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\deploy\names.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\deploy\release.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\deploy\release.conf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\image\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\a.a0.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\a.a1.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\a.a2.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\a.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\b.b0.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\b.b1.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\b.b2.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\b.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\c.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\d.d0.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\d.d1.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\d.d2.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\d.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\m.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\index\ui.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\pub\simple.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\r\core.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\css\common.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\css\index.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\css\simple.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\a.a0.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\a.a1.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\a.a2.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\a.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\b.b0.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\b.b1.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\b.b2.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\b.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\c.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\d.d0.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\d.d1.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\d.d2.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\d.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\m.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\index\ui.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\html\simple.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\a.a0.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\a.a1.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\a.a2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\a.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\b.b0.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\b.b1.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\b.b2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\b.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\c.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\d.d0.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\d.d1.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\d.d2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\d.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\m.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\index\ui.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\module\module.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\page\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\demo\web-app\src\javascript\page\simple.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\iconv-lite\encodings\gbk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\iconv-lite\encodings\table\gbk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\iconv-lite\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\manual.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\deploy\log.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\deploy\names.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\deploy\release.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\deploy\release.conf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\deploy\release.sh" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\doc\function.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\doc\result.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\quickstart\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\quickstart\csshover.htc" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\quickstart\html\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\quickstart\js\base.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\quickstart\js\main.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\src\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\src\file.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\src\logger.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\src\parser.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\src\path.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\src\release.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\release\src\util.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\bin\uglifyjs" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\cmd.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\doc\manual.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\lib\parse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\lib\process.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\test\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\test\gen\_map_.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\test\gen\js_jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\test\gen\js_modifyUser.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\test\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\test\js\modifyUser.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\learnNEJ\nej_publisher\uglifyjs\uglify.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API/xhr.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learn_NEJ.iws" />
@@ -507,16 +25,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6732101">
-              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+            <state vertical-scroll-proportion="-22.633333">
+              <caret line="211" column="74" selection-start-line="211" selection-start-column="74" selection-end-line="211" selection-end-column="74" />
               <folding>
                 <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1453254261193" expanded="true" signature="207:291" placeholder="..." />
-                <marker date="1453254261193" expanded="true" signature="222:279" placeholder="{...}" />
+                <marker date="1453639637575" expanded="true" signature="207:291" placeholder="..." />
+                <marker date="1453639637575" expanded="true" signature="222:279" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -532,38 +50,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/base.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#97#901#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            <state vertical-scroll-proportion="-6.3">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding>
-                <element signature="e#2543#2732#0" expanded="false" />
-                <element signature="e#3580#4492#0" expanded="false" />
-                <element signature="e#4890#5118#0" expanded="false" />
+                <element signature="e#5284#5512#0" expanded="false" />
+                <element signature="e#14103#14208#0" expanded="false" />
+                <element signature="e#14387#14515#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="element.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NEJ/src/base/element.js">
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NEJ/src/base/util.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="823" column="4" selection-start-line="823" selection-start-column="4" selection-end-line="823" selection-end-column="4" />
-              <folding />
+            <state vertical-scroll-proportion="2.8387096">
+              <caret line="916" column="6" selection-start-line="916" selection-start-column="6" selection-end-line="918" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -636,10 +144,10 @@
         <option value="$PROJECT_DIR$/nej_publisher/release/deploy/release.conf" />
         <option value="$PROJECT_DIR$/nej_publisher/release/quickstart/html/index.html" />
         <option value="$PROJECT_DIR$/js/pro/main.js" />
-        <option value="$PROJECT_DIR$/js/base.js" />
-        <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/base.js" />
+        <option value="$PROJECT_DIR$/html/index.html" />
       </list>
     </option>
   </component>
@@ -651,10 +159,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="914" />
+    <option name="y" value="7" />
+    <option name="width" value="1007" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -713,7 +221,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn_NEJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnNEJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn_NEJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnNEJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -730,7 +266,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="SearchEverywhereHistoryKey" value="event&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/NEJ/src/util/event.js&#10;esca&#9;null&#9;null&#10;base&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/ui/base.js&#10;module.js&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/util/dispatcher/module.2.js&#10;card.w&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/ui/layer/card.wrapper.js&#10;tab&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/util/tab/tab.js&#10;sort&#9;null&#9;null&#10;NodeL&#9;null&#9;null&#10;in&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/timer/interval.js&#10;xdr&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/ajax/xdr.js&#10;addEvent&#9;null&#9;null&#10;element&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/element.js&#10;NEJ.O&#9;null&#9;null&#10;anim&#9;null&#9;null&#10;util&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/util.js&#10;_$getE&#9;null&#9;null&#10;tride&#9;null&#9;null&#10;effect&#9;null&#9;null&#10;audio&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/qunit/javascript/ui/audioTest.js&#10;audio.js&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/qunit/javascript/util/audioTest.js&#10;jst&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/template/jst.js&#10;inter&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/timer/interval.js&#10;his&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/history/history.js&#10;hist&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/history/history.override.js&#10;plat&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/platform.js&#10;global&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/global.js&#10;base/con&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/constant.js&#10;util/ta&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/tab/tab.js" />
+    <property name="SearchEverywhereHistoryKey" value="uti&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/NEJ/src/base/util.js&#10;request&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/NEJ/qunit/javascript/util/ajax/requestTest.js&#10;json&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/NEJ/src/util/encode/json.js&#10;event&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/NEJ/src/util/event.js&#10;esca&#9;null&#9;null&#10;base&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/ui/base.js&#10;module.js&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/util/dispatcher/module.2.js&#10;card.w&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/ui/layer/card.wrapper.js&#10;tab&#9;FILE&#9;file://D:/xampp/htdocs/learnNEJ/js/NEJ/src/util/tab/tab.js&#10;sort&#9;null&#9;null&#10;NodeL&#9;null&#9;null&#10;in&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/timer/interval.js&#10;xdr&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/ajax/xdr.js&#10;addEvent&#9;null&#9;null&#10;element&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/element.js&#10;NEJ.O&#9;null&#9;null&#10;anim&#9;null&#9;null&#10;util&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/util.js&#10;_$getE&#9;null&#9;null&#10;tride&#9;null&#9;null&#10;effect&#9;null&#9;null&#10;audio&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/qunit/javascript/ui/audioTest.js&#10;audio.js&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/qunit/javascript/util/audioTest.js&#10;jst&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/template/jst.js&#10;inter&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/timer/interval.js&#10;his&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/history/history.js&#10;hist&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/history/history.override.js&#10;plat&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/platform.js&#10;global&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/global.js&#10;base/con&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/base/constant.js&#10;util/ta&#9;FILE&#9;file://D:/xampp/htdocs/learn_NEJ/js/NEJ/src/util/tab/tab.js" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
@@ -749,6 +285,8 @@
       <recent name="D:\xampp\htdocs\learn_NEJ\nej_publisher\release\quickstart\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\learnNEJ\API" />
+      <recent name="D:\xampp\htdocs\learnNEJ\html" />
       <recent name="D:\xampp\htdocs\learnNEJ" />
       <recent name="D:\xampp\htdocs\learn_NEJ\js" />
     </key>
@@ -839,32 +377,38 @@
       <option name="project" value="LOCAL" />
       <updated>1452852704322</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="目录调整">
+      <created>1453632896052</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1453632896053</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="914" y="7" width="1007" height="1058" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15031983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23653643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -883,7 +427,8 @@
     <MESSAGE value="用NEJ重写" />
     <MESSAGE value="图片上传按钮美化" />
     <MESSAGE value="重构_getDaliyId" />
-    <option name="LAST_COMMIT_MESSAGE" value="重构_getDaliyId" />
+    <MESSAGE value="目录调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="目录调整" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -899,8 +444,8 @@
           <folding>
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1453254261193" expanded="true" signature="207:291" placeholder="..." />
-            <marker date="1453254261193" expanded="true" signature="222:279" placeholder="{...}" />
+            <marker date="1453639637575" expanded="true" signature="207:291" placeholder="..." />
+            <marker date="1453639637575" expanded="true" signature="222:279" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -913,24 +458,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#97#901#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2543#2732#0" expanded="false" />
-            <element signature="e#3580#4492#0" expanded="false" />
-            <element signature="e#4890#5118#0" expanded="false" />
+            <element signature="e#5284#5512#0" expanded="false" />
+            <element signature="e#14103#14208#0" expanded="false" />
+            <element signature="e#14387#14515#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -950,8 +485,8 @@
           <folding>
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1453254261193" expanded="true" signature="207:291" placeholder="..." />
-            <marker date="1453254261193" expanded="true" signature="222:279" placeholder="{...}" />
+            <marker date="1453639637575" expanded="true" signature="207:291" placeholder="..." />
+            <marker date="1453639637575" expanded="true" signature="222:279" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -964,24 +499,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#97#901#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2543#2732#0" expanded="false" />
-            <element signature="e#3580#4492#0" expanded="false" />
-            <element signature="e#4890#5118#0" expanded="false" />
+            <element signature="e#5284#5512#0" expanded="false" />
+            <element signature="e#14103#14208#0" expanded="false" />
+            <element signature="e#14387#14515#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1001,8 +526,8 @@
           <folding>
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1453254261193" expanded="true" signature="207:291" placeholder="..." />
-            <marker date="1453254261193" expanded="true" signature="222:279" placeholder="{...}" />
+            <marker date="1453639637575" expanded="true" signature="207:291" placeholder="..." />
+            <marker date="1453639637575" expanded="true" signature="222:279" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1027,19 +552,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="378" column="27" selection-start-line="378" selection-start-column="27" selection-end-line="378" selection-end-column="27" />
           <folding>
-            <element signature="e#2543#2732#0" expanded="false" />
-            <element signature="e#3580#4492#0" expanded="false" />
-            <element signature="e#4890#5118#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding>
-            <element signature="e#97#901#0" expanded="false" />
+            <element signature="e#5284#5512#0" expanded="false" />
+            <element signature="e#14103#14208#0" expanded="false" />
+            <element signature="e#14387#14515#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1051,8 +566,8 @@
           <folding>
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1453254261193" expanded="true" signature="207:291" placeholder="..." />
-            <marker date="1453254261193" expanded="true" signature="222:279" placeholder="{...}" />
+            <marker date="1453639637575" expanded="true" signature="207:291" placeholder="..." />
+            <marker date="1453639637575" expanded="true" signature="222:279" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1077,19 +592,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2543#2732#0" expanded="false" />
-            <element signature="e#3580#4492#0" expanded="false" />
-            <element signature="e#4890#5118#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding>
-            <element signature="e#97#901#0" expanded="false" />
+            <element signature="e#5284#5512#0" expanded="false" />
+            <element signature="e#14103#14208#0" expanded="false" />
+            <element signature="e#14387#14515#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1101,8 +606,8 @@
           <folding>
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1453254261193" expanded="true" signature="207:291" placeholder="..." />
-            <marker date="1453254261193" expanded="true" signature="222:279" placeholder="{...}" />
+            <marker date="1453639637575" expanded="true" signature="207:291" placeholder="..." />
+            <marker date="1453639637575" expanded="true" signature="222:279" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1150,16 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#97#901#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NEJ/src/base/element.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1168,27 +663,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NEJ/src/patched/gecko/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23385301">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NEJ/src/patched/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23385301">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NEJ/src/patched/presto/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2572383">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NEJ/src/util/encode/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.005567929">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NEJ/src/util/ajax/loader/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.828508">
+          <caret line="298" column="22" selection-start-line="298" selection-start-column="22" selection-end-line="298" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NEJ/qunit/javascript/util/ajax/requestTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20489977">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/xhr.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16935484">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        <state vertical-scroll-proportion="-6.3">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding>
-            <element signature="e#2543#2732#0" expanded="false" />
-            <element signature="e#3580#4492#0" expanded="false" />
-            <element signature="e#4890#5118#0" expanded="false" />
+            <element signature="e#5284#5512#0" expanded="false" />
+            <element signature="e#14103#14208#0" expanded="false" />
+            <element signature="e#14387#14515#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6732101">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state vertical-scroll-proportion="-22.633333">
+          <caret line="211" column="74" selection-start-line="211" selection-start-column="74" selection-end-line="211" selection-end-column="74" />
           <folding>
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1453254261193" expanded="true" signature="207:291" placeholder="..." />
-            <marker date="1453254261193" expanded="true" signature="222:279" placeholder="{...}" />
+            <marker date="1453639637575" expanded="true" signature="207:291" placeholder="..." />
+            <marker date="1453639637575" expanded="true" signature="222:279" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NEJ/src/base/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.8387096">
+          <caret line="916" column="6" selection-start-line="916" selection-start-column="6" selection-end-line="918" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
