@@ -1,7 +1,0 @@
-.f-cb:after{clear:both;content:'.';display:block;height:0;visibility:hidden;}
-.f-cb{zoom:1;}
-.f-cb .fl{float:left;}
-.f-cb .fr{float:right;}
-.w-tab{margin:0;padding:0;border-bottom:1px solid #aaa;text-align:center;}
-.w-tab .itm{width:80px;height:30px;line-height:30px;margin:0 3px 0 0;background:#dcf;list-style:none;cursor:pointer;}
-.w-tab .itm.js-selected{background:#aaa;}
