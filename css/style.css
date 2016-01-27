@@ -141,8 +141,6 @@ body{background:#fff;}
 .m-lst .item .more li a{padding:5px 10px 5px 5px; width:35px;}
 .m-lst .item .more li:hover{background-color:#ececec;}
 .m-lst .item .more:hover ul{left:-6px;}
-.m-lst .item .more:hover > a{visibility:hidden;}
-.m-lst .item .more:hover .link{/* IE6 */*visibility:hidden;}
 .m-lst .item .data{margin-top:10px;margin-left:20px;color:#7b7b7b;}
 .m-lst .item .date{margin-right:60px;margin-left:23px;width:120px;}
 .m-lst .item .times,.m-lst .item .reviews {width:50px;margin-right:30px;}

@@ -106,55 +106,24 @@
                     <li class="f-ml1" id="tags"><a href="javascript:void(0)">标签</a></li>
                 </ul>
 
-                <div class="m-daily j-flag">
+                <div class="m-daily">
                     <!-- 日志添加 -->
                     <div class="m-editor f-cb">
                         <input type="text" placeholder="日志标题" class="j-title j-flag"/>
                         <textarea placeholder="这里可以写日志~" class="j-content j-flag"></textarea><!-- textarea必须在同一行 -->
                         <div class="btns f-fr">
-                            <button class="u-btn j-pub j-button">发布</button>
-                            <button class="u-btn j-clear j-button">清空</button>
+                            <button class="u-btn j-button">发布</button>
+                            <button class="u-btn j-button">清空</button>
                         </div>
                     </div>
                     <!-- /日志添加 -->
                     <!-- 日志管理 -->
                     <!-- 个人日志列表容器节点 -->
-                    <div class="m-lst j-flag" id="j-list">
+                    <div class="m-lst j-flag" id="j-lst">
                     </div>
                     <!-- /个人日志列表容器节点 -->
-                    <!-- jst模板 -->
-                    <textarea id="dataSelfTemplate" style="display: none;">
-                            {list selfItems as x}
-                            <div class="item" data-id=${x.id}>
-                                <ul class="f-cb">
-                                    <li class="title f-fl f-ib">
-                                        <input type="checkbox" class="j-checkbox" data-type="checkbox"
-                                               ${x.isChecked}/><a href="" class="f-eps f-ib">${x.allowView}
-                                        ${x.title}</a>
-                                        <span class="article">${x.blogContent}</span>
-                                    </li>
-                                    <li class="more f-fr f-pr"><a href="">更多<span class="u-icon f-pr"></span></a>
-                                        <ul>
-                                            <li><a href="">更多<span class="u-icon f-pr"></span></a></li>
-                                            <li><a href="javascript:void(0)" data-type=${x.dataType}>${x.text}</a></li>
-                                            <li><a href="javascript:void(0)" data-type="dlt">删除</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="f-fr">
-                                        <a href="javascript:void(0)" data-type="editor">编辑</a>
-                                    </li>
-                                </ul>
-                                <div class="data">
-                                    <span class="date">${x.shortPublishDateStr} ${x.publishTimeStr}</span>
-                                    <span class="times">阅读${x.accessCount}</span>
-                                    <span class="reviews">评论(${x.commentCount})</span>
-                                </div>
-                            </div>
-                            {/list}
-                    </textarea>
-                    <!-- /jst模板 -->
                     <div class="m-opt">
-                        <label for="sltall"></label><input type="checkbox" class="j-sltall j-button" id="sltall">全选<button class="j-dltall j-button">删除</button>
+                        <label for="sltall"></label><input type="checkbox" class="j-button" id="sltall">全选<button class="j-button">删除</button>
                     </div>
                     <!-- /日志管理 -->
                 </div>
@@ -170,20 +139,9 @@
                 <div class="wrap">
                     <h3 class="title">好友最近的日志</h3>
                     <!-- 好友日志列表容器节点 -->
-                    <div class="m-lst2 j-flag" id="j-lst2">
+                    <div class="m-lst2" id="j-lst2">
                     </div>
                     <!-- /好友日志列表容器节点 -->
-                    <!-- jst模板 -->
-                    <textarea id="dataFriendTemplate" style="display: none">
-                    {list friendItems as x}
-                    <div class="item f-cb">
-                        <div class="avtor f-fl"><img src=${x.avtor} alt="" width="40" height="40"></div>
-                        <div class="flag f-fl"><a href="" class="f-eps f-ib">${x.userName}</a></div>
-                        <div class="flag f-fl f-eps">${x.Content}</div>
-                    </div>
-                    {/list}
-                        </textarea>
-                    <!-- /jst模板 -->
                 </div>
             </div>
         </div>
@@ -207,6 +165,46 @@
     <div class="m-cprt">
         网易公司版权所有©1997-2015
     </div>
+</div>
+<div id="templates" style="display:none;">
+                    <textarea id="dataSelfTemplate" name="jst">
+                            {list selfItems as x}
+                            <div class="item" data-id=${x.id}>
+                                <ul class="f-cb">
+                                    <li class="title f-fl f-ib">
+                                        <input type="checkbox" class="j-checkbox" data-type="checkbox"
+                                               ${x.isChecked}/><a href="" class="f-eps f-ib">${x.allowView}
+                                        ${x.title}</a>
+                                        <span class="article">${x.blogContent}</span>
+                                    </li>
+                                    <li class="more f-fr f-pr"><a href="">更多<span class="u-icon f-pr"></span></a>
+                                        <ul>
+                                            <li><a href="">更多<span class="u-icon f-pr"></span></a></li>
+                                            <li><a href="javascript:void(0)" data-type=${x.dataType}>${x.text}</a></li>
+                                            <li><a href="javascript:void(0)" data-type="dlt">删除</a></li>
+                                        </ul>
+                                        </li>
+                                    <li class="f-fr">
+                                        <a href="javascript:void(0)" data-type="editor">编辑</a>
+                                    </li>
+                                </ul>
+                                <div class="data">
+                                    <span class="date">${x.shortPublishDateStr} ${x.publishTimeStr}</span>
+                                    <span class="times">阅读${x.accessCount}</span>
+                                    <span class="reviews">评论(${x.commentCount})</span>
+                                </div>
+                            </div>
+                            {/list}
+                    </textarea>
+                    <textarea id="dataFriendTemplate" name="jst">
+                    {list friendItems as x}
+                    <div class="item f-cb">
+                        <div class="avtor f-fl"><img src=${x.avtor} alt="" width="40" height="40"></div>
+                        <div class="flag f-fl"><a href="" class="f-eps f-ib">${x.userName}</a></div>
+                        <div class="flag f-fl f-eps">${x.Content}</div>
+                    </div>
+                    {/list}
+                        </textarea>
 </div>
 <!-- /尾部 -->
 <script type="text/javascript" src="../NEJ/src/define.js?pro=./"></script>
