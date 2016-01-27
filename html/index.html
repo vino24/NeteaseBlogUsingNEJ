@@ -136,10 +136,10 @@
             </div>
 
             <div class="right f-fr">
+                <h3 class="title">好友最近的日志</h3>
                 <div class="wrap">
-                    <h3 class="title">好友最近的日志</h3>
                     <!-- 好友日志列表容器节点 -->
-                    <div class="m-lst2" id="j-lst2">
+                    <div class="m-lst2 f-pr" id="j-lst2" style="top:0;">
                     </div>
                     <!-- /好友日志列表容器节点 -->
                 </div>
@@ -168,19 +168,17 @@
 </div>
 <div id="templates" style="display:none;">
                     <textarea id="dataSelfTemplate" name="jst">
-                            {list selfItems as x}
+                            {list items as x}
                             <div class="item" data-id=${x.id}>
                                 <ul class="f-cb">
                                     <li class="title f-fl f-ib">
-                                        <input type="checkbox" class="j-checkbox" data-type="checkbox"
-                                               ${x.isChecked}/><a href="" class="f-eps f-ib">${x.allowView}
-                                        ${x.title}</a>
+                                        <input type="checkbox" class="j-checkbox" data-type="checkbox" {if x.isChecked}checked{/if}/><a href="" class="f-eps f-ib">{if x.allowView==10000}<span class="s-bg sprite-private"></span>{/if}${x.title}</a>
                                         <span class="article">${x.blogContent}</span>
                                     </li>
                                     <li class="more f-fr f-pr"><a href="">更多<span class="u-icon f-pr"></span></a>
                                         <ul>
                                             <li><a href="">更多<span class="u-icon f-pr"></span></a></li>
-                                            <li><a href="javascript:void(0)" data-type=${x.dataType}>${x.text}</a></li>
+                                            <li><a href="javascript:void(0)" data-type={if x.rank==0}'top'>置顶 {else} 'cancel'>取消 {/if}</a></li>
                                             <li><a href="javascript:void(0)" data-type="dlt">删除</a></li>
                                         </ul>
                                         </li>
@@ -197,7 +195,7 @@
                             {/list}
                     </textarea>
                     <textarea id="dataFriendTemplate" name="jst">
-                    {list friendItems as x}
+                    {list items as x}
                     <div class="item f-cb">
                         <div class="avtor f-fl"><img src=${x.avtor} alt="" width="40" height="40"></div>
                         <div class="flag f-fl"><a href="" class="f-eps f-ib">${x.userName}</a></div>

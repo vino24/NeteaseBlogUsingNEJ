@@ -1,0 +1,10 @@
+.w-form{text-align:left;}
+.w-form input{margin:0;padding:0;}
+.w-form td{padding:4px 0;border:none;}
+.w-form table{table-layout:fixed;width:100%;}
+.w-form .c0{width:90px;text-align:right;}
+.w-form .c1{width:200px;}
+.w-form .text{width:190px;border:1px solid #aaa;}
+.w-form .js-invalid{border-color:#f00;}
+.w-form .js-error{padding-left:10px;color:#f00;}
+.w-form .js-pass{padding-left:10px;color:#22B14C;}
